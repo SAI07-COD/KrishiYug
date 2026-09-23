@@ -1,4 +1,4 @@
-# 🌱 KrishiMitra — Multi-Intelligence Smart Agriculture Platform
+# 🌱 KrishiYug — Multi-Intelligence Smart Agriculture Platform
 
 > **One Platform. Smarter Farming. Better Decisions.**  
 > A Next-Gen Agriculture Intelligence Ecosystem built for Indian farmers and agricultural workers.
