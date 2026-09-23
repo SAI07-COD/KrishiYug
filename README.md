@@ -3,6 +3,8 @@
 > **One Platform. Smarter Farming. Better Decisions.**  
 > A Next-Gen Agriculture Intelligence Ecosystem built for Indian farmers and agricultural workers.
 
+### 🌐 [Live Demo → https://krishi-yug-frontend-9hvm.vercel.app](https://krishi-yug-frontend-9hvm.vercel.app/)
+
 ---
 
 ## 🚀 Key Features
